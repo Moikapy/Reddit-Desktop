@@ -4,7 +4,7 @@
   "description": "Got bored so I'm making a Reddit Desktop Client",
   "keywords": [],
   "main": "./main.js",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "moikapy",
   "scripts": {
     "start": "electron-forge start",
